@@ -1,8 +1,5 @@
 # Youtube-videos-data-scrapping
 
-Hello everyone,
-
-Today, I am excited to share with you a project that I have been working on – an enhancement of a YouTube video analysis tool. This project started as a way to gather insights from YouTube channels, and over time, I faced various challenges and made several improvements to make it more robust and user-friendly.
 
 Project Overview:
 The goal of the project is to analyze videos from a YouTube channel, extracting information such as titles and views, and presenting the data in a clear and meaningful way.
